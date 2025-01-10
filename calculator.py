@@ -4,7 +4,7 @@ while 1:
     print("1. Addition")
     print("2. Subtraction")
     print("3  Multiplication")
-    print("4. Division")
+    print("4. Division or not or yes")
     print("5. Exit")
     choice = int(input("Enter your choice: "))
     if choice == 1:
